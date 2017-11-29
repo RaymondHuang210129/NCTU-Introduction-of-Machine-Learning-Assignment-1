@@ -1,0 +1,1 @@
+gcc HW1.cpp -lstdc++ -std=c++11 -o HW1_out -lm && ./HW1_out

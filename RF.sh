@@ -1,0 +1,1 @@
+gcc HW1RF.cpp -lstdc++ -std=c++11 -o HW1RF_out -lm && ./HW1RF_out
